@@ -1,0 +1,37 @@
+#title{
+    background-color: aqua;
+    text-align: center;
+    border-radius:8px ;
+    border: groove 5px lightblue;
+}
+
+.list{
+    border: solid 3px aqua;
+    border: double 5px lightblue;
+    margin:0;
+}
+.title{
+    border: double 5px lightblue;
+    text-align: center;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a{
+    text-decoration: solid;
+}
+body{
+    font-size: 50px;
+}
+small{
+    font-size: 10px;
+}
+.kakudai20{
+    font-size: 20px;
+}
