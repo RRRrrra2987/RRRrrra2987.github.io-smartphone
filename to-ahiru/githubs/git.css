@@ -1,0 +1,23 @@
+.title{
+    border: double 5px lightblue;
+}
+.red{
+    color:red;
+}
+.END{
+    color: red;
+    border: double 5px red;
+    text-align: center;
+}
+kasenn{
+    border-bottom: solid 1px red;
+}
+.kimidori{
+    color: lightgreen;
+}
+table{
+    font-size: 40px;
+}
+.honnbunn{
+    font-size: 40px;
+}

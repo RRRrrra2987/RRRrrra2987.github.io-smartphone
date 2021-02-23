@@ -1,0 +1,26 @@
+.A{
+    background-color: black;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: lightgreen;
+}
+a:hover{
+    color: red;
+}
+.list{
+    text-decoration: none;
+    list-style-type:none;
+    border: double 3px lightblue;
+}
+ul{
+    list-style-type: square;
+}
+body{
+    font-size: 30px;
+}
+.twenty{
+    font-size:20px;
+}
