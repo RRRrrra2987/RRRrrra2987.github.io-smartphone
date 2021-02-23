@@ -1,0 +1,16 @@
+body{
+    background:red;
+    font-size: 2em;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
