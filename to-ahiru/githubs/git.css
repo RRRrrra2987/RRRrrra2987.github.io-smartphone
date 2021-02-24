@@ -21,3 +21,10 @@ table{
 .honnbunn{
     font-size: 40px;
 }
+.red-2{
+    background-color: red;
+}
+.sample{
+    background-color: aliceblue;
+    background-size:auto;
+}
