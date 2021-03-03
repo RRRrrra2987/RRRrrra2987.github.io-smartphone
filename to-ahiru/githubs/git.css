@@ -26,6 +26,10 @@ table{
 }
 .sample{
     background-color: aliceblue;
-    
+    background-size:auto;
 }
-
+table{
+    font-size: 40px;
+}
+.honnbunn{
+    font-size: 40px;
