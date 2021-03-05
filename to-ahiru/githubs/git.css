@@ -33,3 +33,15 @@ table{
 }
 .honnbunn{
     font-size: 40px;
+}
+.a{
+    border: double 2px lightgreen;
+    margin-top:0;
+    margin-bottom: 0;
+    margin-right:20px ;
+}
+.cc{
+    border-radius: 7px;
+    background-color: greenyellow;
+    font-size:30px;
+}
